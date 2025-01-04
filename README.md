@@ -74,7 +74,6 @@ cloudflare telegram bot is a powerful Telegram bot designed to streamline Cloudf
 - `/start` - Initialize bot and begin authentication
 - `/clear` - Purge chat history
 - `/cancel` - Abort current operation
-- `/help` - Display command list
 
 ### Interactive Features
 - Main menu navigation
